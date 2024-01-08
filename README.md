@@ -22,7 +22,7 @@ Realizado para el curso de Introducción a la Programación de 'Plataforma5' en 
 
 ## Demo
 
-[Insert gif or link to demo](https://old-code-todolist.vercel.app)https://old-code-todolist.vercel.app
+[Demo Link](https://old-code-todolist.vercel.app)
 
 
 
