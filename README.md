@@ -1,16 +1,28 @@
-# oldCode-todolist
+
+# Old Code - To do list
 
 
-My first web developer project, made with html, css and javascript, humble from head to toe but equally important (what bad taste in design)
+🇬🇧 English  
+📖 My debut web developer project, crafted with HTML, CSS, and JavaScript. Humble from head to toe but equally significant (some questionable design choices, though).
 
-Made for the Introduction to Programming course by 'Plataforma5'
+Created for the Introduction to Programming course by 'Plataforma5' in February 2023. 🚀
 
-February 2023
+---
 
-Mi primer proyecto de web developer, hecho con html, css y javascript, humilde de pies a cabeza pero igual de importante (que mal gusto en el diseno)
+🇪🇸 Español  
+📖 Mi primer proyecto como desarrollador web, hecho con HTML, CSS y JavaScript. Sencillo de pies a cabeza pero igualmente importante (aunque con un gusto discutible en el diseño).
 
-Hecho para el curso de Introduccion a la Programacion de 'Plataforma5' 
+Realizado para el curso de Introducción a la Programación de 'Plataforma5' en febrero de 2023. 🚀
 
-Febrero del 2023
+
+## Screenshots
+
+![App Screenshot](https://github.com/JoaquinHAcosta/oldCode-todolist/blob/main/project-todo1.png)
+
+
+## Demo
+
+Insert gif or link to demo
+
 
 
